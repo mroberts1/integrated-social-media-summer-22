@@ -30,19 +30,95 @@ Email: [mrober40@fitchburgstate.edu](mailto:mrober40@fitchburgstate.edu)
 
 ## OVERVIEW 
 
-This course offers students the opportunity to learn about advanced applications of social media and produce high quality content for organizations. Issues such as search engine optimization (SEO), workflow, convergence, production of culture, conscientious posting, and coordination between networked audiences and publics will be addressed. The course examines communication theory and practices, how they are integrated and illustrated in social media, and how this affects users and producers. Social media are ever-evolving tool-sets and distribution platforms, and they are linked by a core set of skills and best practices. The course applies these core skills and practices to user organizations as they relate to business and communicative contexts.
+This course provides students the opportunity to learn about advanced applications of social media and produce high quality content for organizations. Issues addressed include search engine optimization (SEO), workflow, convergence, production of culture, conscientious posting, and coordination between networked audiences and publics. The course examines communication theory and practices, how they are integrated into and illustrated in social media, and how this affects users and producers. Social media are ever-evolving tool-sets and distribution platforms, and they are linked by a core set of skills and best practices. The course applies these core skills and practices to user organizations as they relate to business and communicative contexts.
 
 ## OBJECTIVES
 
-By the end of the semester, students should have acquired the following skills:  
+By the end of the course, students should have acquired the following skills:  
 
-- Understand the intersection of social media practices with communication theory to determine their best uses both within the practical and academic contexts    
+- Understand the intersection of social media practices with communication theory to determine their best uses in both practical and academic contexts    
 - Examine how the world of social media works through research into historical communication practices  
 - Propose effective communication strategies for local businesses based on theoretical evidence obtained through research  
 - Create entry-level and intermediate social media strategies for outreach and content generation  
-- Engage in group discussion to break down advanced readings and apply them to practical problems  
-- Produce theoretically-based documentation in individual and group-based projects for social media  
-- Speculate on the future of social media and applied social media practices by drawing both on reading assignments and extracurricular activities as a basis for further understanding of social media utilities  
+- Participate in group discussion to break down advanced readings and apply them to practical problems  
+- Produce theory-based documentation in individual and group-based projects for social media  
+- Speculate in an informed way about the future of social media and applied social media practices by drawing both on reading assignments and extracurricular activities as a basis for further understanding of social media affordances  
+***
+
+## COURSE READINGS
+
+### REQUIRED TEXTS
+
+Frick, T., & Eyler-Werve, K. (2015). _Return on engagement: Content strategy and web design techniques for digital marketing_. 2nd Edition. Taylor & Francis, New York.
+
+Jenkins, H., Ford, S., & Green, J. (2013). _Spreadable media: Creating value and meaning in a networked culture_. New York University Press, New York.
+
+### OTHER READINGS
+
+Via Blackboard - please download zip file containing PDFs.
+
+Jenkins, H., “Quentin Tarantino’s _Star Wars_? Grassroots Creativity Meets the Media Industry,” in _Convergence Culture_.  
+
+Marwick, A. (2013). “Online Identity.” In Hartley, J. Burgess, J. & Bruns, A. (eds), _Companion to New Media Dynamics_. Blackwell Companions to Cultural Studies. Malden, MA: Blackwell, pp. 355-364.  
+
+Peterson, R, & Anand, N. (2004). "The Production of Culture Perspective." _Annual Review of Sociology_. 30, 311-334.  
+
+***
+
+## WEEKLY SCHEDULE
+
+_The schedule below is provisional. Any updates will be posted on Blackboard on the Announcements page, so be sure to check this at least several times each week._
+
+***
+
+### WEEK 1
+
+- Marwick, “Online Identity”    
+- Jenkins Ford, & Green, _Spreadable Media_, ch. 1: “Where Web 2.0 Went Wrong”   
+- Frick & Eyler-Werve, _Return on Engagement_, ch. 1: “Digital Marketing Strategy Basics”  
+
+***
+
+### WEEK 2
+
+- Frick & Eyler-Werve, _Return on Engagement_, ch. 2: “Content Strategy”  
+- Jenkins, “Quentin Tarantino’s _Star Wars_? Grassroots Creativity Meets the Media Industry”   
+- Peterson & Anand, “The Production of Culture Perspective”  
+
+***
+
+### WEEK 3
+
+- Frick & Eyler-Werve, _Return on Engagement_, chs. 3-4: “SEO and Content Strategy”; “Design Strategy: An Integrated Approach” 
+- Jenkins Ford, & Green, _Spreadable Media_, ch. 2: “Reappraising the Residual”
+
+***
+
+### WEEK 4
+
+- Frick & Eyler-Werve, _Return on Engagement_, ch. 5: “Measurement Strategy”  
+- Jenkins Ford, & Green, _Spreadable Media_, ch. 3: “The Value of Media Engagement”
+
+***
+
+### WEEK 5
+
+- Frick & Eyler-Werve, _Return on Engagement_, ch. 6: “Writing for the Web”  
+- Jenkins Ford, & Green, _Spreadable Media_, ch. 4: “What Constitutes Meaningful Participation?”
+
+***
+
+### WEEK 6
+
+- Frick & Eyler-Werve, _Return on Engagement_, chs. 7-8: “Producing Web Video”;“Content and Social Networks”  
+- Jenkins Ford, & Green, _Spreadable Media_, ch. 5: “Designing for Spreadability”  
+
+***
+
+### WEEK 7
+
+- Jenkins Ford, & Green, _Spreadable Media_, ch. 6: “Courting Supporters for Independent Media”   
+- Frick & Eyler-Werve, _Return on Engagement_, chs. 9-10: “Creating Usable Designs”; “Climate Ride’s Pedal Power”  
 
 ***
 
@@ -82,72 +158,17 @@ Using the concept of convergence as described by Jenkins et al., describe a busi
 
 ***
 
-## WEEKLY SCHEDULE
+## USEFUL RESOURCES
 
-_NB: Please note that this schedule is provisional and subject to change. Any changes will be posted on the Announcments page of Blackboard, so be sure to check this weekly._
-
-***
-
-### WEEK 1
-
-Towards an understanding of innovation and social media
-
-Introduction/Discussion of Syllabus/Assign First Readings
-
-- Marwick. (2013). “Online Identity.” In Hartley, J. Burgess, J. & Bruns, A. (eds), _Companion to New Media Dynamics_. Blackwell Companions to Cultural Studies. Malden, MA: Blackwell, pp. 355-364 (Blackboard)  
-- Jenkins et. al (2013), ch. 1: “Where Web 2.0 Went Wrong”   
-- Frick & Eyler-Werve, ch. 1: “Digital Marketing Strategy Basics”  
+[Mel Lee-Smith](https://www.melleesmith.com/blog/)  
+[Ness Labs](https://nesslabs.com/) (run by Anne-Laure Le Cunff) 
+[Moncef Belyamani](https://nesslabs.com/) (technical blog: social media programming)  
 
 ***
-
-### WEEK 2
-
-- Frick & Eyler-Werve, ch. 2: “Content Strategy”  
-- Jenkins, _Convergence Culture_: “Quentin Tarantino’s _Star Wars_? Grassroots Creativity Meets the Media Industry” (Blackboard)  
-- Peterson, R, & Anand, N. (2004). The Production of Culture Perspective. _Annual Review of Sociology_. 30, 311-334. (Blackboard)
-
-***
-
-### WEEK 3
-
-- Frick & Eyler-Werve, chs. 3-4: “SEO and Content Strategy”; “Design Strategy: An Integrated Approach” 
-- Jenkins et. al (2013), ch. 2: “Reappraising the Residual.”
-
-***
-
-### WEEK 4
-
-- Frick & Eyler-Werve, ch. 5: “Measurement Strategy”  
-- Jenkins et. al (2013), ch. 3: “The Value of Media Engagement”
-
-***
-
-### WEEK 5
-
-- Frick & Eyler-Werve, ch. 6: “Writing for the Web”  
-- Jenkins et. al (2013), ch. 4: “What Constitutes Meaningful Participation?”
-
-***
-
-### WEEK 6
-
-- Frick & Eyler-Werve, chs. 7-8: “Producing Web Video”;“Content and Social Networks”  
-- Jenkins et. al. (2013), ch. 5: “Designing for Spreadability”  
-
-***
-
-### WEEK 7
-
-- Jenkins et. Al (2013), ch. 6: “Courting Supporters for Independent Media”   
-- Frick & Eyler-Werve, chs. 9-10: “Creating Usable Designs”; “Climate Ride’s Pedal Power”  
-
-***
-
-
 
 ## LATE POLICY
 
-Assignments that are late will lose 1/2 of a grade per day, beginning at the end of class and including weekends and holidays. This means that a paper, which would have received an A if it was on time, will receive a B+ the next day, B- for two days late, and so on. Time management, preparation for our meetings, and timely submission of your work comprise a significant dimension of your professionalism. As such, your work must be completed by the beginning of class on the day it is due. If you have a serious problem that makes punctual submission impossible, you must discuss this matter with me before the due date so that we can make alternative arrangements. Because you are given plenty of time to complete your work, and major due dates are given to you well in advance, last minute problems should not preclude handing in assignments on time.
+Assignments submitted late will lose 1/2 of a grade per day, beginning at the end of class and including weekends and holidays. This means that a paper, which would have received an A if it was on time, will receive a B+ the next day, B- for two days late, and so on. Time management, preparation for our meetings, and timely submission of your work comprise a significant dimension of your professionalism. As such, your work must be completed by the beginning of class on the day it is due. If you have a serious problem that makes punctual submission impossible, you must discuss this matter with me before the due date so that we can make alternative arrangements. Because you are given plenty of time to complete your work, and major due dates are given to you well in advance, last minute problems should not preclude handing in assignments on time.
 
 ***
 
@@ -156,7 +177,7 @@ Fitchburg State University is committed to providing a safe learning environment
 
 ***
 
-## PHYSICAL AND MENTAL HEALTH
+## WELLNESS
 [Health Services](http://www.google.com/url?q=http%3A%2F%2Fwww.fitchburgstate.edu%2Foffices-services-directory%2Fhealth-services%2F&sa=D&sntz=1&usg=AFQjCNEw5V0i0hL5DVO5b43gejNNaAt4ig)
 
 Hours: Monday-Friday 8:30AM-5PM
