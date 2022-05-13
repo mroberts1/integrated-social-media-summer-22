@@ -9,8 +9,6 @@ GCE Online-Accelerated
 Instructor: Dr. Martin Roberts  
 Email: [mrober40@fitchburgstate.edu](mailto:mrober40@fitchburgstate.edu)  
 
-***  
-
 ## OVERVIEW 
 
 This course provides students the opportunity to learn about advanced applications of social media and produce high quality content for organizations. Issues addressed include search engine optimization (SEO), workflow, convergence, production of culture, conscientious posting, and coordination between networked audiences and publics. The course examines communication theory and practices, how they are integrated into and illustrated in social media, and how this affects users and producers. Social media are ever-evolving tool-sets and distribution platforms, and they are linked by a core set of skills and best practices. The course applies these core skills and practices to user organizations as they relate to business and communicative contexts.
@@ -26,7 +24,6 @@ By the end of the course, students should have acquired the following skills:
 - Participate in group discussion to break down advanced readings and apply them to practical problems  
 - Produce theory-based documentation in individual and group-based projects for social media  
 - Speculate in an informed way about the future of social media and applied social media practices by drawing both on reading assignments and extracurricular activities as a basis for further understanding of social media affordances  
-***
 
 ## COURSE READINGS
 
@@ -46,13 +43,9 @@ Marwick, A. (2013). “Online Identity.” In Hartley, J. Burgess, J. & Bruns, A
 
 Peterson, R, & Anand, N. (2004). "The Production of Culture Perspective." _Annual Review of Sociology_. 30, 311-334.  
 
-***
-
 ## WEEKLY SCHEDULE
 
 _The schedule below is provisional. Any updates will be posted on Blackboard on the Announcements page, so be sure to check this at least several times each week._
-
-***
 
 ### WEEK 1
 
@@ -60,58 +53,42 @@ _The schedule below is provisional. Any updates will be posted on Blackboard on 
 - Jenkins Ford, & Green, _Spreadable Media_, ch. 1: “Where Web 2.0 Went Wrong”   
 - Frick & Eyler-Werve, _Return on Engagement_, ch. 1: “Digital Marketing Strategy Basics”  
 
-***
-
 ### WEEK 2
 
 - Frick & Eyler-Werve, _Return on Engagement_, ch. 2: “Content Strategy”  
 - Jenkins, “Quentin Tarantino’s _Star Wars_? Grassroots Creativity Meets the Media Industry”   
 - Peterson & Anand, “The Production of Culture Perspective”  
 
-***
-
 ### WEEK 3
 
 - Frick & Eyler-Werve, _Return on Engagement_, chs. 3-4: “SEO and Content Strategy”; “Design Strategy: An Integrated Approach” 
 - Jenkins Ford, & Green, _Spreadable Media_, ch. 2: “Reappraising the Residual”
-
-***
 
 ### WEEK 4
 
 - Frick & Eyler-Werve, _Return on Engagement_, ch. 5: “Measurement Strategy”  
 - Jenkins Ford, & Green, _Spreadable Media_, ch. 3: “The Value of Media Engagement”
 
-***
-
 ### WEEK 5
 
 - Frick & Eyler-Werve, _Return on Engagement_, ch. 6: “Writing for the Web”  
 - Jenkins Ford, & Green, _Spreadable Media_, ch. 4: “What Constitutes Meaningful Participation?”
-
-***
 
 ### WEEK 6
 
 - Frick & Eyler-Werve, _Return on Engagement_, chs. 7-8: “Producing Web Video”;“Content and Social Networks”  
 - Jenkins Ford, & Green, _Spreadable Media_, ch. 5: “Designing for Spreadability”  
 
-***
-
 ### WEEK 7
 
 - Jenkins Ford, & Green, _Spreadable Media_, ch. 6: “Courting Supporters for Independent Media”   
 - Frick & Eyler-Werve, _Return on Engagement_, chs. 9-10: “Creating Usable Designs”; “Climate Ride’s Pedal Power”  
-
-***
 
 ## COURSE FORMAT
 
 The course’s primary platform will be the Blackboard Learning Management System (LMS), which will be used for the syllabus, reading assignments, lectures, discussion forums, written assignments, and messaging. These materials may be accessed either via a desktop or laptop computer or via a smartphone or other networked device. Since the course is conducted entirely online, all students are expected to have a smartphone with internet access and at least several accounts on major social media platforms such as Facebook, Instagram, Twitter, Tumblr, Discord, and/or TikTok.
 
 In addition to Blackboard, we will also be using other communication tools and platforms, including Internet Relay Chat (IRC), RSS feeds, and/or social bookmarking sites. Please note, however, that although we will be referencing commercial social media platforms throughout the course, we will not be using them as components of the course itself.
-
-***
 
 ## ASSIGNMENTS
 
@@ -139,26 +116,18 @@ Using the concept of convergence as described by Jenkins et al., describe a busi
 
 3,000 – 4,500 words, excluding references (APA citation style, in-text and separate reference page). Develop a strategy for integrating social media into your own work, either as an individual or for the company that you work for. This strategy should explicitly try to connect theory with  practice. What reading assignments support the decisions you make? What theoretical concepts are you bringing into your work as a result of the choices you make, and how will that affect your potential friends, followers, and customers in both the online and embodied world? What is the production of culture as you see it playing out in your choices? How have each of your assignments helped you reach this point where you are ready to apply a theoretical lens to a practical decision or set of decisions? What practical lessons are you using with the Frick & Eyler-Werve text? By explaining how your work reflects your knowledge, you are displaying your portfolio to an employer and making a practical connection between theory and application. This project is the culmination of all your knowledge in this area, so make sure it is truly representative of your final output.
 
-***
-
 ## USEFUL RESOURCES
 
 [Mel Lee-Smith](https://www.melleesmith.com/blog/)  
 [Ness Labs](https://nesslabs.com/) (run by Anne-Laure Le Cunff) 
 [Moncef Belyamani](https://nesslabs.com/) (technical blog: social media programming)  
 
-***
-
 ## LATE POLICY
 
 Assignments submitted late will lose 1/2 of a grade per day, beginning at the end of class and including weekends and holidays. This means that a paper, which would have received an A if it was on time, will receive a B+ the next day, B- for two days late, and so on. Time management, preparation for our meetings, and timely submission of your work comprise a significant dimension of your professionalism. As such, your work must be completed by the beginning of class on the day it is due. If you have a serious problem that makes punctual submission impossible, you must discuss this matter with me before the due date so that we can make alternative arrangements. Because you are given plenty of time to complete your work, and major due dates are given to you well in advance, last minute problems should not preclude handing in assignments on time.
 
-***
-
 ## MANDATORY REPORTER
 Fitchburg State University is committed to providing a safe learning environment for all students that is free of all forms of discrimination and harassment. Please be aware all FSU faculty members are “mandatory reporters,” which means that if you tell me about a situation involving sexual harassment, sexual assault, dating violence, domestic violence, or stalking, I am legally required to share that information with the Title IX Coordinator. If you or someone you know has been impacted by sexual harassment, sexual assault, dating or domestic violence, or stalking, FSU has staff members trained to support you. If you or someone you know has been impacted by sexual harassment, sexual assault, dating or domestic violence, or stalking, please visit [http://fitchburgstate.edu/titleix](http://fitchburgstate.edu/titleix) to access information about university support and resources.
-
-***
 
 ## WELLNESS
 [Health Services](http://www.google.com/url?q=http%3A%2F%2Fwww.fitchburgstate.edu%2Foffices-services-directory%2Fhealth-services%2F&sa=D&sntz=1&usg=AFQjCNEw5V0i0hL5DVO5b43gejNNaAt4ig)
@@ -179,8 +148,6 @@ Food insecurity is a growing issue and it certainly can affect student learning.
 
 The university continues to partner with Our Father's House to support student needs and access to food and services. All Fitchburg State University students are welcome at the Our Father’s House Community Food Pantry. This Pantry is located at the Faith Christian Church at 40 Boutelle St., Fitchburg, MA and is open from 5-7pm. Each “household” may shop for nutritious food once per month by presenting a valid FSU ID.
 
-***
-
 ## ACADEMIC INTEGRITY
 You are strongly encouraged to consult the University's [Academic Integrity Policy](http://www.fitchburgstate.edu/offices-services-directory/office-of-student-conduct-mediation-education/academic-integrity/). Students are expected to do their own work. Plagiarism and cheating are inexcusable. Any instance of plagiarism or cheating will automatically result in a zero on the assignment and may be reported the Office of Student and Academic Life at the discretion of the instructor.
 
@@ -193,12 +160,8 @@ Plagiarism includes, but is not limited to:
     
 _If you're not clear on what is or is not plagiarism, ASK. The BEST case scenario if caught is a zero on that assignment, and ignorance of what does or does not count is not an excuse. That being said, I'm a strong proponent of the concept of [Fair Use](https://en.wikipedia.org/wiki/Fair_Use). Just attribute what you use--and, again, ASK if there's any doubt._
 
-***
-
 ## AMERICANS WITH DISABILITIES ACT (ADA)
 If you need course adaptations or accommodations because of a disability, if you have emergency medical information to share with the instructor, or if you need special arrangements in case the building must be evacuated, please inform the faculty member as soon as possible.
-
-***
 
 ## TECHNOLOGY
 At some point during the semester you will likely have a problem with technology. Your laptop will crash; your iPad battery will die; a recording you make will disappear; you will accidentally delete a file; the wireless will go down at a crucial time. These, however, are inevitabilities of life, not emergencies. Technology problems are not excuses for unfinished or late work. Bad things may happen, but you can protect yourself by doing the following:
@@ -209,7 +172,6 @@ At some point during the semester you will likely have a problem with technology
 - Save drafts: When editing, set aside the original and work with a copy.
 - Practice safe computing: On your personal devices, install and use software to control viruses and malware.
     
-  ***
 
 ## GRADING POLICY
 Grading for the course will follow the FSU grading policy below:
@@ -225,8 +187,6 @@ C-: 74-76
 D+: 71-73  
 0.0: < 70  
 
-***
-
 ## ACADEMIC RESOURCES
 
 [Writing Center](http://www.fitchburgstate.edu/offices-services-directory/tutor-center/writing-help/)
@@ -239,4 +199,4 @@ D+: 71-73
 
 [University Career Services](http://www.fitchburgstate.edu/offices-services-directory/career-counseling-and-advising/career-services/)
 
-***
+
