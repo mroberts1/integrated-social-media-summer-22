@@ -1,11 +1,10 @@
 ---
-title: ""
-runningheader: "COMM 8021 Integrated Social Media" # only for pdf output
-subtitle: "" # only for html output
+title: ''
 author: "Martin Roberts"
 date: "`r Sys.Date()`"
 output:
-  word_document:
+  html_document:
+    df_print: paged
   tufte::tufte_handout:
     citation_package: natbib
     latex_engine: xelatex
@@ -13,7 +12,10 @@ output:
     citation_package: natbib
     latex_engine: xelatex
   tufte::tufte_html:
-    tufte_variant: "envisioned"
+    tufte_variant: envisioned
+  word_document: null
+subtitle: ''
+runningheader: COMM 8021 Integrated Social Media
 link-citations: yes
 ---
 ## COMM 8021 INTEGRATED SOCIAL MEDIA
