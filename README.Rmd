@@ -4,13 +4,13 @@ author: "Martin Roberts"
 date: "`r Sys.Date()`"
 output:
   tufte::tufte_html:
-    css: "my_style.css"
-  tufte::tufte_book:
-    citation_package: natbib
-    latex_engine: xelatex
+    css: my_style.css
   tufte::tufte_handout:
     citation_package: natbib
-    latex_engine: xelatex
+    latex_engine: pdflatex
+  tufte::tufte_book:
+    citation_package: natbib
+    latex_engine: pdflatex
   word_document: null
 subtitle: ''
 runningheader: COMM 8021 Integrated Social Media
@@ -61,6 +61,12 @@ Jenkins, H., “Quentin Tarantino’s _Star Wars_? Grassroots Creativity Meets t
 Marwick, A. (2013). “Online Identity.” In Hartley, J. Burgess, J. & Bruns, A. (eds), _Companion to New Media Dynamics_. Blackwell Companions to Cultural Studies. Malden, MA: Blackwell, pp. 355-364.  
 
 Peterson, R., & Anand, N. (2004). "The Production of Culture Perspective." _Annual Review of Sociology_. 30, 311-334.  
+
+***
+
+## ONLINE RESOURCES
+
+[_Spreadable Media_ Essays ](https://spreadablemedia.org/essays/index.html) (archive of companion essays to the book)  
 
 ***
 
